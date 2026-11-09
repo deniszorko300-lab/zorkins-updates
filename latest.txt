@@ -1,1 +1,1 @@
-{"versionCode":1256,"versionName":"3.0.1256","apkUrl":"https://github.com/deniszorko300-lab/zorkins-updates/releases/download/v3.0.1256/ZORKINS-3.0.1256.apk","releaseNotes":"Обновление ZORKINS: исправления и улучшения."}
+{"versionCode":1257,"versionName":"3.1.1257","apkUrl":"https://github.com/deniszorko300-lab/zorkins-updates/releases/download/v3.1.1257/ZORKINS-3.1.1257.apk","releaseNotes":"Обновление ZORKINS: исправления и улучшения."}
