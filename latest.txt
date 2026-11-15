@@ -1,1 +1,1 @@
-{"versionCode":1313,"versionName":"3.1.1313","apkUrl":"https://github.com/deniszorko300-lab/zorkins-updates/releases/download/v3.1.1313/ZORKINS-3.1.1313.apk","releaseNotes":"Сообщества: лайки, комментарии, фото, опросы и управление публикациями."}
+{"versionCode":1312,"versionName":"3.1.1312","apkUrl":"https://github.com/deniszorko300-lab/zorkins-updates/releases/download/v3.1.1312/ZORKINS-3.1.1312.apk","releaseNotes":"Сообщества: лайки, комментарии, фото, опросы и управление публикациями."}
