@@ -1,1 +1,1 @@
-{"versionCode":1393,"versionName":"3.1.1393","apkUrl":"https://github.com/deniszorko300-lab/zorkins-updates/releases/download/v3.1.1393/ZORKINS-3.1.1393.apk","releaseNotes":"Истории на 24 часа, видеокружки в чатах и сообщества: создание, подписка и публикации."}
+{"versionCode":1394,"versionName":"3.1.1394","apkUrl":"https://github.com/deniszorko300-lab/zorkins-updates/releases/download/v3.1.1394/ZORKINS-3.1.1394.apk","releaseNotes":"Истории на 24 часа, видеокружки в чатах и сообщества: создание, подписка и публикации."}
